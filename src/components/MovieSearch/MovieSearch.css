@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Montserrat|Open+Sans');
+.headtext{
+	font-family: 'Montserrat';
+	font-weight: bold;
+	text-shadow: 5px 8px 1px #000000;
+	font-size: 60px;
+}
+.ptext{
+	padding:10px 200px;
+	font-family: 'Lato';
+	font-size: 22px;
+	font-weight: 400;
+}
+.search-form input::placeholder{
+	color:white;
+	font-family: 'Montserrat'; 
+	font-weight: 100;
+	font-size: 17px;
+	opacity: 0.7;
+}
+.mvibtn{
+	margin:20px 15px 0px 15px;
+	background:inherit;
+	border: none;
+}
+ 
+.mvibtn img{
+	float: left;
+	padding: 5px 20px;
+}
