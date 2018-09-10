@@ -86,7 +86,7 @@ class MovieDetails extends Component{
                         </div>   
                     </div>
 				</div>
-				<div className='mt3 mr3'>
+				<div className='mt3 mr6'>
 				<button type='button' onClick={this.onBackClick} className='bg-transparent ba br3 w-10 fr mr5 pr3 pl2 mt3'>
 					<img src={back} alt='backbutton' className='icon'/>
 					<p className='mt3'>Back</p>
